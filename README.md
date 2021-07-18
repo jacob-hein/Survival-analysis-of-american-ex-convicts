@@ -45,7 +45,7 @@ As a final survival analysis approach, an age grouping was done on a grouping of
 
 ![ageGroupingSignificantCharacteristicsTable](ageGroupingSignificantCharacteristics.PNG)
 
-The survival estimates for this grouping approach found that only in the age group of 25-29 year olds did prior work experience significantly improve the survival probability of ex-convicts: 
+The survival estimates for this grouping approach found that only in the age group of 25-30 year olds did prior work experience significantly improve the survival probability of ex-convicts: 
 
 ![survivalCurvesThirdApp](survivalCurvesAgeGrouping.PNG)
 
